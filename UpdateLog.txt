@@ -1,0 +1,8 @@
++Added FOV
++Set FOV
++Manual Inject
++Improved Aimbot
++Aimbot settings
+
+
+I will try to add ESP in the future and better triggerbot
