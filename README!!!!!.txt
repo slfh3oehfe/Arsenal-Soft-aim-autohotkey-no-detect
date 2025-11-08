@@ -6,4 +6,6 @@ To close the cheat F8
 
 Type Roblox for the window process hook
 
-channel - https://www.youtube.com/channel/UCEQGpqB5giyADCXbPg774pw
+To see how it works and set up check my youtube |
+                                                |
+                                                >>>> channel - https://www.youtube.com/channel/UCEQGpqB5giyADCXbPg774pw
